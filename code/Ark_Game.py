@@ -1,6 +1,6 @@
 # 注：建议使用Python1.12.2版本，若版本过低，可能会出现无法运行的情况
 # 请注意时间，不能将时间手动调为1970年1月1日0点0分以前！
-# 版权所有：writing
+# 版权所有：writing, you can call me Echo or 邓钰泽
 import os
 import json
 import time
